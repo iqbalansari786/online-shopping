@@ -1,2 +1,7 @@
+<div class="container">
 
-<h1>welcome to about us</h1>
+	<div class="row">
+		<h1>welcome to about us</h1>
+
+	</div>
+</div>

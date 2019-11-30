@@ -1,4 +1,4 @@
-package com.belalsoft.onlineshoppingbackend;
+package com.belalsoft.onlineshoppingbackend.test;
 
 import static org.junit.Assert.assertTrue;
 
