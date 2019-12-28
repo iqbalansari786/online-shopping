@@ -19,6 +19,9 @@
                     </li>
                     <li id="contact"><a href="${contextRoot}/contact">Contact</a>
                     </li>
+                    
+                    <li id="contact"><a href="${contextRoot}/manage/products">Manage Product</a>
+                    </li>
                 </ul>
             </div>
          
